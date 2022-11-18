@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 
-## (:blue_book) About
+## 📘 About
 Pokedex is a project made to consume an API and display Pokemons and their information.
 
-## (:hammer_and_pick) Tools
+## ⚒️ Tools
 ##### Technologies
 - HTML5
 - CSS3
@@ -22,7 +22,7 @@ Pokedex is a project made to consume an API and display Pokemons and their infor
 ##### API
 - PokéAPI
 
-## (:page_facing_up_) License
+## 📄 License
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/bootcamps-dio/blob/main/LICENCE) file for more details.
 
 <hr>
