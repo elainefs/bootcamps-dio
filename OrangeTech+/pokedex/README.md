@@ -27,4 +27,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elai
 
 <hr>
 
-Made with :heart by [Elaine Ferreira](https://github.com/elainefs)
+Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs)
