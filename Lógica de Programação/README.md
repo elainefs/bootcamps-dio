@@ -6,6 +6,10 @@ Curso que aborda os princípios da lógica de programação, começando por conc
 
 Com a oportunidade de aplicar esses conhecimentos em projetos práticos, fortalecendo uma base sólida em lógica de programação para contribuir de forma colaborativa no desenvolvimento de software.
 
+## 🗃️ Conteúdo
+### Desafios:
+[Classifica Nível do Herói](desafios/classifica-nivel-heroi/script.js)
+
 ## 📄 Licença
 Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](https://github.com/elainefs/bootcamps-dio/blob/main/LICENCE) para obter mais detalhes.
 
