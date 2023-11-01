@@ -1,5 +1,11 @@
-# Bootcamps DIO
+<div align='center'>
+<h1> Bootcamps DIO</h1>
+
+![Logo DIO](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
+
 Repositório de armazenamento dos desafios de código e projetos desenvolvidos durante os Bootcamps oferecidos pela DIO.
+
+</div>
 
 ## Bootcamps
 
