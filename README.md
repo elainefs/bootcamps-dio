@@ -12,3 +12,8 @@ Programa voltado para profissionais de tecnologia que querem aperfeiçoar seus c
 O Orange tech + é um projeto para quem deseja aprender do zero desenvolvimento front-end e back-end e tem o propósito de se preparar de verdade para as melhores vagas do mercado de tecnologia. O primeiro bootcamp do programa abordou as tecnologias de front-end como, JavaScript, HTML, CSS, Typescript e React, após esse programa, uma trilha complementar de back-end.
 
 ---
+
+### [Potência Tech iFood - Lógica de Programação](https://github.com/elainefs/bootcamps-dio/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
+Curso que aborda os princípios da lógica de programação, começando por conceitos introdutórios, desde a exploração de algoritmos, variáveis e estruturas condicionais até a implementação de estruturas de repetição e operadores lógicos e de comparação.
+
+---
