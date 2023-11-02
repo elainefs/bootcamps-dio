@@ -10,6 +10,7 @@ Com a oportunidade de aplicar esses conhecimentos em projetos práticos, fortale
 ### Desafios:
 - [Classifica Nível do Herói](desafios/classifica-nivel-heroi/script.js)
 - [Calculadora de Partidas Rankeadas](desafios/calculadora-partidas-rankeadas/script.js)
+- [Classifica Ataque de Acordo com o Tipo de Herói](desafios/classes-de-jogo/script.js)
 
 ## 📄 Licença
 Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](https://github.com/elainefs/bootcamps-dio/blob/main/LICENCE) para obter mais detalhes.
