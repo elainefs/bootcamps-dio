@@ -12,6 +12,9 @@ O Orange tech + é um projeto para quem deseja aprender do zero desenvolvimento 
 
 [Wiki do GitHub](https://github.com/elainefs/bootcamps-dio/tree/main/OrangeTech%2B/wiki-github)
 
+## 📚 Desafios de Código
+[Desafios](desafios)
+
 ## 📄 Licença
 Este projeto está sob a licença do MIT. Consulte o arquivo [LICENSE](https://github.com/elainefs/bootcamps-dio/blob/main/LICENCE) para obter mais detalhes.
 
