@@ -1,6 +1,19 @@
 <div align='center'>
 <h1> Bootcamps DIO</h1>
 
+  <img src="https://img.shields.io/github/repo-size/elainefs/bootcamps-dio">
+
+  <img src="https://img.shields.io/github/languages/count/elainefs/bootcamps-dio">
+
+  <img src="https://img.shields.io/github/languages/top/elainefs/bootcamps-dio">
+
+  <img src="https://img.shields.io/github/last-commit/elainefs/bootcamps-dio?color=blue">
+
+  <img src="https://img.shields.io/github/license/elainefs/bootcamps-dio?color=blue">
+
+  <br>
+  <br>
+
 ![Logo DIO](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
 
 Repositório de armazenamento dos desafios de código e projetos desenvolvidos durante os Bootcamps oferecidos pela DIO.
