@@ -5,7 +5,7 @@ O bootcamp Coding The Future Banco PAN - Desenvolvimento Frontend com Angular te
 ## 🗃️ Projetos
 
 - [Angular Blog](https://github.com/elainefs/santander-bootcamp-2023/tree/main/angular-blog)
-- [Clone do BuzzFeed](programas)
+- [Clone do BuzzFeed](clone-buzzfeed/README.md)
 
 ## 📄 Licença
 
