@@ -63,3 +63,7 @@ O Santander Bootcamp 2023 é uma parceria entre o Santander e a DIO que tem o ob
 O bootcamp Coding The Future Banco PAN - Desenvolvimento Frontend com Angular tem o objeto de ajudar a desenvolver habilidades práticas para construir aplicações web modernas e responsivas, estudar conceitos importantes de front-end como o que é componetização e porque empresas com o Facebook e a Google utilizam o método, SPA (Single Page Application) para páginas que carregam mais rápido e com mais responsividade e boas práticas de organização e padronização para trabalhar em grandes equipes.
 
 ---
+
+### [Santander Bootcamp 2024 - Fundamentos de IA para Devs](Fundamentos-de-IA-Para-Devs/README.md)
+
+O Santander Bootcamp 2024 é uma parceria entre o Santander e a DIO que tem o objetivo de fortalecer a comunidade tecnológica brasileira e potencializar a formação de talentos em desenvolvimento de software. O curso conta com aulas teóricas e práticas com o objetivo de ensinar a dominar os prompts de comando para tornar as IAs generativas aliadas no desenvolvimento, ajudando na elaboração de testes, códigos, refatoração e otimização para turbinar a produtividade dos desenvolvedores.
