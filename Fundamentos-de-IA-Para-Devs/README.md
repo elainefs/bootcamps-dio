@@ -6,6 +6,7 @@ O Santander Bootcamp 2024 é uma parceria entre o Santander e a DIO que tem o ob
 
 - [E-book gerado por IAs](ebook-gerado-por-IA/README.md)
 - [Artigo técnico gerado por IA](artigo-gerado-por-IA/README.md)
+- [Roteiro de podcast gerado por IA](podcast-gerado-por-IA/README.md)
 
 ## 📄 Licença
 
